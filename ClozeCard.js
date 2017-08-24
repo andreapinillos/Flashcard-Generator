@@ -37,5 +37,5 @@ console.log(firstPresidentCloze.fullText);
 console.log(firstPresidentCloze.cloze);
 console.log(firstPresidentCloze.partial());
 
-// Export ClozeCard constructor which gets used in main.js.
+// Export ClozeCard constructor
 module.exports = ClozeCard;
